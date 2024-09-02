@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m an alura student
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning i'm developing in the JaqvaScript language
+uilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 📫 How to reach me: 00001101189198sp@al.educacao.sp.gov.br- 😄 Pronouns: her/she
-- ⚡ Fun fact: ...
--->
+
